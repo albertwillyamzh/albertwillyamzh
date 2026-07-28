@@ -89,11 +89,14 @@ Pengalaman web interaktif berbasis storytelling dengan animasi, musik, kartu pes
 
 🔗 [Lihat repository Letters to You](https://github.com/albertwillyamzh/letterstoyou) · [Live demo](https://letterstoyou.vercel.app)
 
-## Statistik GitHub
+## Aktivitas GitHub
+
+Saya secara aktif mengembangkan proyek web interaktif, aplikasi berbasis data, dan eksperimen machine learning. Contribution graph bawaan GitHub di bawah profil ini menampilkan aktivitas terbaru saya.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=albertwillyamzh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertwillyamzh&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <a href="https://github.com/albertwillyamzh?tab=repositories">Lihat semua repository</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/albertwillyamzh?tab=stars">Lihat project yang saya dukung</a>
 </p>
 
 ## Mari Terhubung
